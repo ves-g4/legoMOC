@@ -1,0 +1,3133 @@
+{
+  "_comment" : "Created with OWL2VOWL (version 0.3.5), http://vowl.visualdataweb.org",
+  "header" : {
+    "languages" : [ "en" ],
+    "baseIris" : [ "http://www.w3.org/1999/02/22-rdf-syntax-ns", "http://webprotege.stanford.edu", "http://www.w3.org/2002/07/owl", "http://www.w3.org/2000/01/rdf-schema" ],
+    "iri" : "urn:webprotege:ontology:6ce56ec3-8c8a-47cc-8f5b-103baf81a966"
+  },
+  "namespace" : [ ],
+  "class" : [ {
+    "id" : "3",
+    "type" : "owl:Class"
+  }, {
+    "id" : "13",
+    "type" : "owl:Class"
+  }, {
+    "id" : "21",
+    "type" : "owl:Class"
+  }, {
+    "id" : "22",
+    "type" : "owl:Class"
+  }, {
+    "id" : "26",
+    "type" : "owl:Class"
+  }, {
+    "id" : "27",
+    "type" : "owl:Class"
+  }, {
+    "id" : "33",
+    "type" : "owl:Class"
+  }, {
+    "id" : "35",
+    "type" : "owl:Class"
+  }, {
+    "id" : "37",
+    "type" : "owl:Class"
+  }, {
+    "id" : "12",
+    "type" : "owl:Class"
+  }, {
+    "id" : "64",
+    "type" : "owl:Class"
+  }, {
+    "id" : "66",
+    "type" : "owl:Class"
+  }, {
+    "id" : "71",
+    "type" : "owl:Class"
+  }, {
+    "id" : "15",
+    "type" : "owl:Class"
+  }, {
+    "id" : "28",
+    "type" : "owl:Class"
+  }, {
+    "id" : "95",
+    "type" : "owl:Class"
+  }, {
+    "id" : "29",
+    "type" : "owl:Class"
+  }, {
+    "id" : "47",
+    "type" : "owl:Class"
+  }, {
+    "id" : "100",
+    "type" : "owl:Class"
+  }, {
+    "id" : "31",
+    "type" : "owl:Class"
+  }, {
+    "id" : "51",
+    "type" : "owl:Class"
+  }, {
+    "id" : "2",
+    "type" : "owl:Class"
+  }, {
+    "id" : "101",
+    "type" : "owl:Class"
+  }, {
+    "id" : "103",
+    "type" : "owl:Class"
+  }, {
+    "id" : "105",
+    "type" : "owl:Class"
+  }, {
+    "id" : "16",
+    "type" : "owl:Class"
+  }, {
+    "id" : "102",
+    "type" : "owl:Class"
+  }, {
+    "id" : "111",
+    "type" : "owl:Class"
+  }, {
+    "id" : "20",
+    "type" : "owl:Class"
+  }, {
+    "id" : "112",
+    "type" : "owl:Class"
+  }, {
+    "id" : "32",
+    "type" : "owl:Class"
+  }, {
+    "id" : "42",
+    "type" : "owl:Class"
+  }, {
+    "id" : "113",
+    "type" : "owl:Class"
+  }, {
+    "id" : "50",
+    "type" : "owl:Class"
+  }, {
+    "id" : "114",
+    "type" : "owl:Class"
+  }, {
+    "id" : "52",
+    "type" : "owl:Class"
+  }, {
+    "id" : "57",
+    "type" : "owl:Class"
+  }, {
+    "id" : "91",
+    "type" : "owl:Class"
+  }, {
+    "id" : "70",
+    "type" : "owl:Class"
+  }, {
+    "id" : "104",
+    "type" : "owl:Class"
+  }, {
+    "id" : "133",
+    "type" : "owl:Class"
+  }, {
+    "id" : "4",
+    "type" : "owl:Class"
+  }, {
+    "id" : "45",
+    "type" : "owl:Class"
+  }, {
+    "id" : "110",
+    "type" : "owl:Class"
+  }, {
+    "id" : "106",
+    "type" : "owl:Class"
+  }, {
+    "id" : "18",
+    "type" : "owl:Class"
+  }, {
+    "id" : "149",
+    "type" : "owl:Class"
+  }, {
+    "id" : "127",
+    "type" : "owl:Class"
+  }, {
+    "id" : "137",
+    "type" : "owl:Class"
+  }, {
+    "id" : "62",
+    "type" : "owl:Class"
+  }, {
+    "id" : "135",
+    "type" : "owl:Class"
+  }, {
+    "id" : "77",
+    "type" : "owl:Class"
+  }, {
+    "id" : "8",
+    "type" : "owl:Class"
+  }, {
+    "id" : "79",
+    "type" : "owl:Class"
+  }, {
+    "id" : "41",
+    "type" : "owl:Class"
+  }, {
+    "id" : "44",
+    "type" : "owl:Class"
+  }, {
+    "id" : "46",
+    "type" : "owl:Class"
+  }, {
+    "id" : "109",
+    "type" : "owl:Class"
+  }, {
+    "id" : "108",
+    "type" : "owl:Class"
+  }, {
+    "id" : "39",
+    "type" : "owl:Class"
+  }, {
+    "id" : "55",
+    "type" : "owl:Class"
+  }, {
+    "id" : "63",
+    "type" : "owl:Class"
+  }, {
+    "id" : "158",
+    "type" : "owl:Class"
+  }, {
+    "id" : "142",
+    "type" : "owl:Class"
+  }, {
+    "id" : "30",
+    "type" : "owl:Class"
+  }, {
+    "id" : "80",
+    "type" : "owl:Class"
+  }, {
+    "id" : "6",
+    "type" : "owl:Class"
+  }, {
+    "id" : "40",
+    "type" : "owl:Class"
+  }, {
+    "id" : "10",
+    "type" : "owl:Class"
+  }, {
+    "id" : "53",
+    "type" : "owl:Class"
+  }, {
+    "id" : "54",
+    "type" : "owl:Class"
+  }, {
+    "id" : "131",
+    "type" : "owl:Class"
+  }, {
+    "id" : "59",
+    "type" : "owl:Class"
+  }, {
+    "id" : "130",
+    "type" : "owl:Class"
+  }, {
+    "id" : "60",
+    "type" : "owl:Class"
+  }, {
+    "id" : "132",
+    "type" : "owl:Class"
+  }, {
+    "id" : "107",
+    "type" : "owl:Class"
+  }, {
+    "id" : "36",
+    "type" : "owl:Class"
+  }, {
+    "id" : "76",
+    "type" : "owl:Class"
+  }, {
+    "id" : "34",
+    "type" : "owl:Class"
+  }, {
+    "id" : "1",
+    "type" : "owl:Class"
+  }, {
+    "id" : "65",
+    "type" : "owl:Class"
+  }, {
+    "id" : "69",
+    "type" : "owl:Class"
+  }, {
+    "id" : "116",
+    "type" : "owl:Class"
+  }, {
+    "id" : "72",
+    "type" : "owl:Class"
+  }, {
+    "id" : "122",
+    "type" : "owl:Class"
+  }, {
+    "id" : "73",
+    "type" : "owl:Class"
+  }, {
+    "id" : "93",
+    "type" : "owl:Class"
+  }, {
+    "id" : "74",
+    "type" : "owl:Class"
+  }, {
+    "id" : "75",
+    "type" : "owl:Class"
+  }, {
+    "id" : "24",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "43",
+    "type" : "owl:Class"
+  }, {
+    "id" : "48",
+    "type" : "owl:Class"
+  }, {
+    "id" : "49",
+    "type" : "owl:Class"
+  }, {
+    "id" : "83",
+    "type" : "owl:Class"
+  }, {
+    "id" : "118",
+    "type" : "owl:Class"
+  }, {
+    "id" : "56",
+    "type" : "owl:Class"
+  }, {
+    "id" : "58",
+    "type" : "owl:Class"
+  }, {
+    "id" : "61",
+    "type" : "owl:Class"
+  }, {
+    "id" : "67",
+    "type" : "owl:Class"
+  }, {
+    "id" : "68",
+    "type" : "owl:Class"
+  }, {
+    "id" : "139",
+    "type" : "owl:Class"
+  }, {
+    "id" : "119",
+    "type" : "owl:Class"
+  }, {
+    "id" : "78",
+    "type" : "owl:Class"
+  }, {
+    "id" : "81",
+    "type" : "owl:Class"
+  } ],
+  "classAttribute" : [ {
+    "iri" : "http://webprotege.stanford.edu/RBnl2tOIWd5VqsnjKq4YyD",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBnl2tOIWd5VqsnjKq4YyD",
+      "en" : "Nature"
+    },
+    "attributes" : [ "external" ],
+    "id" : "3",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R3wwgYrht7elExjE9ashmP",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R3wwgYrht7elExjE9ashmP",
+      "en" : "Lego Speed Champions"
+    },
+    "attributes" : [ "external" ],
+    "id" : "13",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R88ysQUsKu49Ma8BqNzLW4G",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R88ysQUsKu49Ma8BqNzLW4G",
+      "en" : "Outer space"
+    },
+    "attributes" : [ "external" ],
+    "id" : "21",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RC2WSEBYdnsFxcanwEqGfFt",
+      "en" : "Lego The Legend of Zelda"
+    },
+    "attributes" : [ "external" ],
+    "id" : "22",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9tuxfRhFelT3AAkaaMjiHi",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9tuxfRhFelT3AAkaaMjiHi",
+      "en" : "Lego Architecture"
+    },
+    "attributes" : [ "external" ],
+    "id" : "26",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R84UONYrkEC6jDvX3tkSrQB",
+      "en" : "Genres"
+    },
+    "subClasses" : [ "28", "29", "30", "31", "32" ],
+    "attributes" : [ "external" ],
+    "id" : "27"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/ResRuOBTcU7928DmwCSaNl",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ResRuOBTcU7928DmwCSaNl",
+      "en" : "Halloween"
+    },
+    "attributes" : [ "external" ],
+    "id" : "33",
+    "superClasses" : [ "34" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RZ5aEMKinBzJ1BeIRyQPV9",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RZ5aEMKinBzJ1BeIRyQPV9",
+      "en" : "Fairies"
+    },
+    "attributes" : [ "external" ],
+    "id" : "35",
+    "superClasses" : [ "36" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9eOOavut6H7uFlF5jAxJDp",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9eOOavut6H7uFlF5jAxJDp",
+      "en" : "Lego City"
+    },
+    "attributes" : [ "external" ],
+    "id" : "37",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "annotations" : {
+      "seeAlso" : [ {
+        "identifier" : "seeAlso",
+        "language" : "undefined",
+        "value" : "https://www.lego.com/es-es/themes",
+        "type" : "iri"
+      } ]
+    },
+    "label" : {
+      "IRI-based" : "RC4qabJwvrncW9rufZD3two",
+      "en" : "Lego Themes"
+    },
+    "subClasses" : [ "41", "42", "43", "44", "45", "46", "13", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "22", "26", "57", "58", "59", "60", "61", "37", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81" ],
+    "attributes" : [ "external" ],
+    "id" : "12",
+    "superClasses" : [ "2" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R4TEYwu18QI7ueBDw0YaSV",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R4TEYwu18QI7ueBDw0YaSV",
+      "en" : "Lego Braille Bricks"
+    },
+    "attributes" : [ "external" ],
+    "id" : "64",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RC4K2spY5Xe6qjaRxlD2PCe",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RC4K2spY5Xe6qjaRxlD2PCe",
+      "en" : "Lego Wicked"
+    },
+    "attributes" : [ "external" ],
+    "id" : "66",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9LF9FKdyR0bkXN1DrFGXYf",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9LF9FKdyR0bkXN1DrFGXYf",
+      "en" : "Lego Pokémon"
+    },
+    "attributes" : [ "external" ],
+    "id" : "71",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R0Zmb161mapzYLF5Q8V0Ys",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R0Zmb161mapzYLF5Q8V0Ys",
+      "en" : "Great Civilizations"
+    },
+    "attributes" : [ "external" ],
+    "id" : "15",
+    "superClasses" : [ "16" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7IWmJmJPp8uP1Kk8hic1I8",
+      "en" : "Fantasia"
+    },
+    "attributes" : [ "external" ],
+    "id" : "28",
+    "superClasses" : [ "27" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9cWwaOy0qksoJ3chbrX2TE",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9cWwaOy0qksoJ3chbrX2TE",
+      "en" : "Books"
+    },
+    "attributes" : [ "external" ],
+    "id" : "95",
+    "superClasses" : [ "40" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R81EgVtMMYr4btjSkBPpRgR",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R81EgVtMMYr4btjSkBPpRgR",
+      "en" : "Science Fiction"
+    },
+    "attributes" : [ "external" ],
+    "id" : "29",
+    "superClasses" : [ "27" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7njTjSXiZyyS0LER8UhPw1",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7njTjSXiZyyS0LER8UhPw1",
+      "en" : "Lego Icons"
+    },
+    "attributes" : [ "external" ],
+    "id" : "47",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7IPB7LjovGeAL18QNmQhFu",
+      "en" : "City"
+    },
+    "attributes" : [ "external" ],
+    "id" : "100",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/REElwzdc0PZNXZ4UHGQxSY",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "REElwzdc0PZNXZ4UHGQxSY",
+      "en" : "War"
+    },
+    "attributes" : [ "external" ],
+    "id" : "31",
+    "superClasses" : [ "27" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDbHUon8YmqBmjxggroNYhZ",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDbHUon8YmqBmjxggroNYhZ",
+      "en" : "Lego Super Mario"
+    },
+    "attributes" : [ "external" ],
+    "id" : "51",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCmdFpDemYpgbxXmjaDmnhJ",
+      "en" : "Fictional Universes"
+    },
+    "subClasses" : [ "83", "1", "6", "8", "10", "12" ],
+    "attributes" : [ "external" ],
+    "id" : "2"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8npsgvFPZTxOFT5NegCKLZ",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8npsgvFPZTxOFT5NegCKLZ",
+      "en" : "Devices"
+    },
+    "attributes" : [ "external" ],
+    "id" : "101",
+    "superClasses" : [ "102" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCdQ90mIEgXmaj0X5k0wNmB",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCdQ90mIEgXmaj0X5k0wNmB",
+      "en" : "House"
+    },
+    "attributes" : [ "external" ],
+    "id" : "103",
+    "superClasses" : [ "104" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDPlXd2fVcGp0j9EPrBH2xb",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDPlXd2fVcGp0j9EPrBH2xb",
+      "en" : "Ninjas"
+    },
+    "attributes" : [ "external" ],
+    "id" : "105",
+    "superClasses" : [ "106" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9rdKBxCugmRnbOX3Wrvq9",
+      "en" : "History"
+    },
+    "subClasses" : [ "15", "18", "20", "107", "108" ],
+    "attributes" : [ "external" ],
+    "id" : "16",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R70MviYMD32x8HLDru3xJvZ",
+      "en" : "Object and Constructions"
+    },
+    "subClasses" : [ "101", "109", "110", "104" ],
+    "attributes" : [ "external" ],
+    "id" : "102"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBALbfIAKSOdtvGj7h24eL3",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBALbfIAKSOdtvGj7h24eL3",
+      "en" : "Explorers"
+    },
+    "attributes" : [ "external" ],
+    "id" : "111",
+    "superClasses" : [ "106" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8OQidO6NrlOYA8tgJUA8FO",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8OQidO6NrlOYA8tgJUA8FO",
+      "en" : "Medieval period"
+    },
+    "attributes" : [ "external" ],
+    "id" : "20",
+    "superClasses" : [ "16" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R992v2q7vf6UBtKS3IhODxj",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R992v2q7vf6UBtKS3IhODxj",
+      "en" : "Princesses"
+    },
+    "attributes" : [ "external" ],
+    "id" : "112",
+    "superClasses" : [ "106" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RwQPbSULSt2QIlIX0PCphy",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RwQPbSULSt2QIlIX0PCphy",
+      "en" : "Action"
+    },
+    "attributes" : [ "external" ],
+    "id" : "32",
+    "superClasses" : [ "27" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8B1dIJLFY6ZK3W10GHLUfW",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8B1dIJLFY6ZK3W10GHLUfW",
+      "en" : "Nike x Lego"
+    },
+    "attributes" : [ "external" ],
+    "id" : "42",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R89tunQFHPeM3L5ptGDgqr0",
+      "en" : "Special vehicles"
+    },
+    "attributes" : [ "external" ],
+    "id" : "113",
+    "superClasses" : [ "110" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RwNOaJHtE3aV4Rqdunf08g",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RwNOaJHtE3aV4Rqdunf08g",
+      "en" : "Lego Bluey"
+    },
+    "attributes" : [ "external" ],
+    "id" : "50",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDeuFb0AaYuwpzy2bE3WUGo",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDeuFb0AaYuwpzy2bE3WUGo",
+      "en" : "Activities and Leisure"
+    },
+    "subClasses" : [ "34", "40" ],
+    "attributes" : [ "external" ],
+    "id" : "114"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RrSPrrU2bGmWePTVU50K20",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RrSPrrU2bGmWePTVU50K20",
+      "en" : "Lego Marvel"
+    },
+    "attributes" : [ "external" ],
+    "id" : "52",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8UHTDQE8rw7Mq6Tc6hQoXU",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8UHTDQE8rw7Mq6Tc6hQoXU",
+      "en" : "Lego Minecraft"
+    },
+    "attributes" : [ "external" ],
+    "id" : "57",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCEQw47NJkbgvaQOtBLJD05",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCEQw47NJkbgvaQOtBLJD05",
+      "en" : "Music"
+    },
+    "attributes" : [ "external" ],
+    "id" : "91",
+    "superClasses" : [ "40" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9Nnw6bHoO4twxiOFrJez4c",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9Nnw6bHoO4twxiOFrJez4c",
+      "en" : "Lego Ninjago"
+    },
+    "attributes" : [ "external" ],
+    "id" : "70",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7kSJtEr57VmeRxqmogPPkt",
+      "en" : "Architecture"
+    },
+    "subClasses" : [ "131", "132", "103" ],
+    "attributes" : [ "external" ],
+    "id" : "104",
+    "superClasses" : [ "102" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDJ8gVY1XjwudpABHUNn92X",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDJ8gVY1XjwudpABHUNn92X",
+      "en" : "Easter"
+    },
+    "attributes" : [ "external" ],
+    "id" : "133",
+    "superClasses" : [ "34" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RB2dLKX3hvfvfQoIblTV4fc",
+      "en" : "Setting"
+    },
+    "subClasses" : [ "3", "21", "100", "16" ],
+    "attributes" : [ "external" ],
+    "id" : "4"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDSL3AhS30jIjrB9fg5qu2H",
+      "en" : "Lego Lord of the Rings"
+    },
+    "attributes" : [ "external" ],
+    "id" : "45",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RKAPpkSg0ADyEyXMQMTbGA",
+      "en" : "Vehicles"
+    },
+    "subClasses" : [ "135", "137", "139", "113", "142" ],
+    "attributes" : [ "external" ],
+    "id" : "110",
+    "superClasses" : [ "102" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBMbceCJHuqmFe0nqVAXSAt",
+      "en" : "Characters"
+    },
+    "subClasses" : [ "111", "112", "127", "105", "130", "116" ],
+    "attributes" : [ "external" ],
+    "id" : "106",
+    "superClasses" : [ "119" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/Rffs0BNFe86lcP5HnJUdlt",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Rffs0BNFe86lcP5HnJUdlt",
+      "en" : "Contemporary history"
+    },
+    "attributes" : [ "external" ],
+    "id" : "18",
+    "superClasses" : [ "16" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDPGJIeDDCY6QFdkNog0Qtc",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDPGJIeDDCY6QFdkNog0Qtc",
+      "en" : "Christmas"
+    },
+    "attributes" : [ "external" ],
+    "id" : "149",
+    "superClasses" : [ "34" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCfJzSRln3nbobZPOGXrsAy",
+      "en" : "Superheros"
+    },
+    "attributes" : [ "external" ],
+    "id" : "127",
+    "superClasses" : [ "106" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R3al8Ycp78HydG6PliHhwU",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R3al8Ycp78HydG6PliHhwU",
+      "en" : "Cars"
+    },
+    "attributes" : [ "external" ],
+    "id" : "137",
+    "superClasses" : [ "110" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9cAP3aBDG5dBJFZUNSFC0Z",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9cAP3aBDG5dBJFZUNSFC0Z",
+      "en" : "Lego Jurassic World"
+    },
+    "attributes" : [ "external" ],
+    "id" : "62",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9rKi5ZT0tsk9TAquy15R7z",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9rKi5ZT0tsk9TAquy15R7z",
+      "en" : "Boats"
+    },
+    "attributes" : [ "external" ],
+    "id" : "135",
+    "superClasses" : [ "110" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R77ce9TXRed541luIBcJDYl",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R77ce9TXRed541luIBcJDYl",
+      "en" : "Lego One Piece"
+    },
+    "attributes" : [ "external" ],
+    "id" : "77",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9Oo8uJVMNI7a3jqhHUeNTd",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9Oo8uJVMNI7a3jqhHUeNTd",
+      "en" : "Comics"
+    },
+    "attributes" : [ "external" ],
+    "id" : "8",
+    "superClasses" : [ "2" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8suvCWwFp2uVRDkqddB1J3",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8suvCWwFp2uVRDkqddB1J3",
+      "en" : "Lego Gabby's dollhouse"
+    },
+    "attributes" : [ "external" ],
+    "id" : "79",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8AsNe8SCd3uYkDLqijFHtv",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8AsNe8SCd3uYkDLqijFHtv",
+      "en" : "Lego Education"
+    },
+    "attributes" : [ "external" ],
+    "id" : "41",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9x14aKmH7Z44lFAx9p4wZT",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9x14aKmH7Z44lFAx9p4wZT",
+      "en" : "Lego Creator 3in1"
+    },
+    "attributes" : [ "external" ],
+    "id" : "44",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RRnMLnJkvdCUYnIi4OHfUr",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RRnMLnJkvdCUYnIi4OHfUr",
+      "en" : "Lego DC"
+    },
+    "attributes" : [ "external" ],
+    "id" : "46",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7Ury4Qs3MfcNbyIYldN7FZ",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7Ury4Qs3MfcNbyIYldN7FZ",
+      "en" : "Food"
+    },
+    "attributes" : [ "external" ],
+    "id" : "109",
+    "superClasses" : [ "102" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R96DfYwN66ImTagicYVPb4B",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R96DfYwN66ImTagicYVPb4B",
+      "en" : "Modern age"
+    },
+    "attributes" : [ "external" ],
+    "id" : "108",
+    "superClasses" : [ "16" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9ob0yphQRjmH389VKgl7dm",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9ob0yphQRjmH389VKgl7dm",
+      "en" : "Sports"
+    },
+    "attributes" : [ "external" ],
+    "id" : "39",
+    "superClasses" : [ "40" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9hDwNCxyZtdE1w8h9Kznzj",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9hDwNCxyZtdE1w8h9Kznzj",
+      "en" : "Botanicals"
+    },
+    "attributes" : [ "external" ],
+    "id" : "55",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RTN9PWvCA5uodLfZV28miZ",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RTN9PWvCA5uodLfZV28miZ",
+      "en" : "Lego Star Wars"
+    },
+    "attributes" : [ "external" ],
+    "id" : "63",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RC7ZKoZ706Bn57HYkw2DtKI",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RC7ZKoZ706Bn57HYkw2DtKI",
+      "en" : "Dragons"
+    },
+    "attributes" : [ "external" ],
+    "id" : "158",
+    "superClasses" : [ "36" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBZhz0dh3cWgm7gvUz7ewi5",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBZhz0dh3cWgm7gvUz7ewi5",
+      "en" : "Airplanes"
+    },
+    "attributes" : [ "external" ],
+    "id" : "142",
+    "superClasses" : [ "110" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCLZgRYIO2zUqbj8Et0L1nW",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCLZgRYIO2zUqbj8Et0L1nW",
+      "en" : "Adventure"
+    },
+    "attributes" : [ "external" ],
+    "id" : "30",
+    "superClasses" : [ "27" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDAVnXdIlOJFaUWLF4vzFnX",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDAVnXdIlOJFaUWLF4vzFnX",
+      "en" : "Lego Harry Potter"
+    },
+    "attributes" : [ "external" ],
+    "id" : "80",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8ygeMGuMETQfJj3g8sBxmN",
+      "en" : "Series"
+    },
+    "attributes" : [ "external" ],
+    "id" : "6",
+    "superClasses" : [ "2" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCHmfbYcqYAR1maUEpgJmAk",
+      "en" : "Hobbies"
+    },
+    "subClasses" : [ "91", "93", "95", "39" ],
+    "attributes" : [ "external" ],
+    "id" : "40",
+    "superClasses" : [ "114" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDmsWD8U4AArEIk1lLQEZTH",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDmsWD8U4AArEIk1lLQEZTH",
+      "en" : "Literature"
+    },
+    "attributes" : [ "external" ],
+    "id" : "10",
+    "superClasses" : [ "2" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBX15yg1QoZ0N8cmbrv7sQR",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBX15yg1QoZ0N8cmbrv7sQR",
+      "en" : "Lego Animal Crossing"
+    },
+    "attributes" : [ "external" ],
+    "id" : "53",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBzFUGtnUxbJduVtXUaRxwz",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBzFUGtnUxbJduVtXUaRxwz",
+      "en" : "Lego Art"
+    },
+    "attributes" : [ "external" ],
+    "id" : "54",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/Rp1nwBO0u5JUlYiwWRdQbc",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Rp1nwBO0u5JUlYiwWRdQbc",
+      "en" : "Building"
+    },
+    "attributes" : [ "external" ],
+    "id" : "131",
+    "superClasses" : [ "104" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCLI0fozmqCxDK4Ql6xIZ0O",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCLI0fozmqCxDK4Ql6xIZ0O",
+      "en" : "Lego Batman"
+    },
+    "attributes" : [ "external" ],
+    "id" : "59",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDgMB7eTBitkJTlOciWBgcI",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDgMB7eTBitkJTlOciWBgcI",
+      "en" : "Pirates"
+    },
+    "attributes" : [ "external" ],
+    "id" : "130",
+    "superClasses" : [ "106" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/ReRForBcl9K04o71crLlp6",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ReRForBcl9K04o71crLlp6",
+      "en" : "Lego Fortnite"
+    },
+    "attributes" : [ "external" ],
+    "id" : "60",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9zM5m8vGgAj0t9IMBKJCSo",
+      "en" : "Monument"
+    },
+    "attributes" : [ "external" ],
+    "id" : "132",
+    "superClasses" : [ "104" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBWLzcX5fd9iA2PQIZOILXS",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBWLzcX5fd9iA2PQIZOILXS",
+      "en" : "Ancient history"
+    },
+    "attributes" : [ "external" ],
+    "id" : "107",
+    "superClasses" : [ "16" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7tazwB9cYTOVGed9w0Dxsq",
+      "en" : "Fantasy beings"
+    },
+    "subClasses" : [ "158", "35" ],
+    "attributes" : [ "external" ],
+    "id" : "36",
+    "superClasses" : [ "119" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7Ul3EfpLp1MnKzx80MV9E",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RB7Ul3EfpLp1MnKzx80MV9E",
+      "en" : "Lego Editions"
+    },
+    "attributes" : [ "external" ],
+    "id" : "76",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Re4lYfpZoIKD2yNz8QNWHv",
+      "en" : "Celebrations"
+    },
+    "subClasses" : [ "149", "133", "33" ],
+    "attributes" : [ "external" ],
+    "id" : "34",
+    "superClasses" : [ "114" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RC9dR8IuqvbY35xv1psHf6K",
+      "en" : "Movies"
+    },
+    "attributes" : [ "external" ],
+    "id" : "1",
+    "superClasses" : [ "2" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RC52vE3vqKL4JlB00bgi4Xe",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RC52vE3vqKL4JlB00bgi4Xe",
+      "en" : "Lego Serious Play"
+    },
+    "attributes" : [ "external" ],
+    "id" : "65",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RncyS63EYNJJlsl5GtQJVm",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RncyS63EYNJJlsl5GtQJVm",
+      "en" : "Lego Powered Up"
+    },
+    "attributes" : [ "external" ],
+    "id" : "69",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R2PhWXZXX3DB0TFWCKTKot",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R2PhWXZXX3DB0TFWCKTKot",
+      "en" : "Professions"
+    },
+    "attributes" : [ "external" ],
+    "id" : "116",
+    "superClasses" : [ "106" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8yUQ5SuWyg5kRWxVJHMkQY",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8yUQ5SuWyg5kRWxVJHMkQY",
+      "en" : "Lego Disney"
+    },
+    "attributes" : [ "external" ],
+    "id" : "72",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8EplBH9fb5DIKmHdYfvaqj",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8EplBH9fb5DIKmHdYfvaqj",
+      "en" : "Animals"
+    },
+    "attributes" : [ "external" ],
+    "id" : "122",
+    "superClasses" : [ "119" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RxKyzV4Rs0tb5ISCcC0ggM",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RxKyzV4Rs0tb5ISCcC0ggM",
+      "en" : "Lego Gru 4"
+    },
+    "attributes" : [ "external" ],
+    "id" : "73",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7hqgPsbKwUitDuKqPmCw0a",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7hqgPsbKwUitDuKqPmCw0a",
+      "en" : "Art"
+    },
+    "attributes" : [ "external" ],
+    "id" : "93",
+    "superClasses" : [ "40" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RKmwWdiEYDK4TIJ0wt8V8l",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RKmwWdiEYDK4TIJ0wt8V8l",
+      "en" : "Lego BrickHeadz"
+    },
+    "attributes" : [ "external" ],
+    "id" : "74",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCmZmiAn3seR9OzeycghH8U",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCmZmiAn3seR9OzeycghH8U",
+      "en" : "Lego Minifigures"
+    },
+    "attributes" : [ "external" ],
+    "id" : "75",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "24",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9GJsto964R6rGtShJpp3O4",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9GJsto964R6rGtShJpp3O4",
+      "en" : "Lego Classic"
+    },
+    "attributes" : [ "external" ],
+    "id" : "43",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R7bfT004CKvyNCFKZcDef2o",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R7bfT004CKvyNCFKZcDef2o",
+      "en" : "Lego Monkie Kid"
+    },
+    "attributes" : [ "external" ],
+    "id" : "48",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8yi7KqUumk9kJuSTvEZitZ",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8yi7KqUumk9kJuSTvEZitZ",
+      "en" : "Lego DUPLO"
+    },
+    "attributes" : [ "external" ],
+    "id" : "49",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RC7oedEaqY0FeL11ILF8ldp",
+      "en" : "Video games"
+    },
+    "attributes" : [ "external" ],
+    "id" : "83",
+    "superClasses" : [ "2" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RcaHk084yWEYejxbSjJCp1",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RcaHk084yWEYejxbSjJCp1",
+      "en" : "Robots"
+    },
+    "attributes" : [ "external" ],
+    "id" : "118",
+    "superClasses" : [ "119" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9LjxAexSUDz63dndclGEcO",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9LjxAexSUDz63dndclGEcO",
+      "en" : "Lego DreamZzz"
+    },
+    "attributes" : [ "external" ],
+    "id" : "56",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RCE6t3FBuJTEof3xtbWX71a",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RCE6t3FBuJTEof3xtbWX71a",
+      "en" : "Lego Technic"
+    },
+    "attributes" : [ "external" ],
+    "id" : "58",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBv2MW5OPcUTYLKqIQYLm5",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBv2MW5OPcUTYLKqIQYLm5",
+      "en" : "Lego Wednesday"
+    },
+    "attributes" : [ "external" ],
+    "id" : "61",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDyY8NnIr04M412wDjE1c2o",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDyY8NnIr04M412wDjE1c2o",
+      "en" : "Lego Friends"
+    },
+    "attributes" : [ "external" ],
+    "id" : "67",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RBgWzLrwM0LZyc0wW3o1VqI",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RBgWzLrwM0LZyc0wW3o1VqI",
+      "en" : "Lego DUPLO Peppa Pig"
+    },
+    "attributes" : [ "external" ],
+    "id" : "68",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R9CA3g3ZUzkfeHWuD2zIuuN",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R9CA3g3ZUzkfeHWuD2zIuuN",
+      "en" : "Trains"
+    },
+    "attributes" : [ "external" ],
+    "id" : "139",
+    "superClasses" : [ "110" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8Rr7Bp1kKQXKJ1uLxjOgCE",
+      "en" : "Protagonists"
+    },
+    "subClasses" : [ "118", "36", "122", "106" ],
+    "attributes" : [ "external" ],
+    "id" : "119"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/R8Jx4CSYZJipWN2XuxXf60U",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "R8Jx4CSYZJipWN2XuxXf60U",
+      "en" : "Lego Sonic the Hedgehog"
+    },
+    "attributes" : [ "external" ],
+    "id" : "78",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RDKDRhv2ZGzB9zxFriLyOU3",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RDKDRhv2ZGzB9zxFriLyOU3",
+      "en" : "Lego Ideas"
+    },
+    "attributes" : [ "external" ],
+    "id" : "81",
+    "superClasses" : [ "12" ]
+  } ],
+  "property" : [ {
+    "id" : "0",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "5",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "7",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "9",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "11",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "14",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "17",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "19",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "23",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "38",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "82",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "84",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "85",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "86",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "87",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "88",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "89",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "90",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "92",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "94",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "96",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "97",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "98",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "99",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "115",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "117",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "120",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "121",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "123",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "124",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "125",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "126",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "128",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "129",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "134",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "136",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "138",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "140",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "141",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "143",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "144",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "145",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "146",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "147",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "148",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "150",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "151",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "152",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "153",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "154",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "155",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "156",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "157",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "159",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "160",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "161",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "162",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "163",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "164",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "165",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "166",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "167",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "168",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "169",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "170",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "171",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "172",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "173",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "174",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "175",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "176",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "177",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "178",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "179",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "180",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "181",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "182",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "183",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "184",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "185",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "186",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "187",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "188",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "189",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "190",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "191",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "192",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "193",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "194",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "195",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "196",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "197",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "198",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "199",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "200",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "201",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "202",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "203",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "204",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "205",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "206",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "207",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "208",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "209",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "210",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "211",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "212",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "213",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "214",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "215",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "216",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "217",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "218",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "219",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "220",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "221",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "222",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "223",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "224",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "225",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "226",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "227",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "228",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "229",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "230",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "231",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "232",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "233",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "234",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "235",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "236",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "237",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "238",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "239",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "240",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "241",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "242",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "243",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "244",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "245",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "246",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "247",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "248",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "249",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "250",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "251",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "252",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "253",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "254",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "255",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "256",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "257",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "258",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "259",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "260",
+    "type" : "rdfs:SubClassOf"
+  } ],
+  "propertyAttribute" : [ {
+    "range" : "2",
+    "domain" : "1",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "0"
+  }, {
+    "range" : "2",
+    "domain" : "6",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "5"
+  }, {
+    "range" : "2",
+    "domain" : "8",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "7"
+  }, {
+    "range" : "2",
+    "domain" : "10",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "9"
+  }, {
+    "range" : "2",
+    "domain" : "12",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "11"
+  }, {
+    "range" : "16",
+    "domain" : "15",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "14"
+  }, {
+    "range" : "16",
+    "domain" : "18",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "17"
+  }, {
+    "range" : "16",
+    "domain" : "20",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "19"
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#topObjectProperty",
+    "baseIri" : "http://www.w3.org/2002/07/owl",
+    "range" : "24",
+    "label" : {
+      "IRI-based" : "topObjectProperty"
+    },
+    "domain" : "24",
+    "subproperty" : [ "25" ],
+    "attributes" : [ "external", "object" ],
+    "id" : "23"
+  }, {
+    "range" : "40",
+    "domain" : "39",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "38"
+  }, {
+    "range" : "2",
+    "domain" : "83",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "82"
+  }, {
+    "range" : "12",
+    "domain" : "76",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "84"
+  }, {
+    "range" : "12",
+    "domain" : "77",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "85"
+  }, {
+    "range" : "12",
+    "domain" : "78",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "86"
+  }, {
+    "range" : "12",
+    "domain" : "79",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "87"
+  }, {
+    "range" : "12",
+    "domain" : "80",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "88"
+  }, {
+    "range" : "12",
+    "domain" : "81",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "89"
+  }, {
+    "range" : "40",
+    "domain" : "91",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "90"
+  }, {
+    "range" : "40",
+    "domain" : "93",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "92"
+  }, {
+    "range" : "40",
+    "domain" : "95",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "94"
+  }, {
+    "range" : "12",
+    "domain" : "73",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "96"
+  }, {
+    "range" : "12",
+    "domain" : "72",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "97"
+  }, {
+    "range" : "12",
+    "domain" : "74",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "98"
+  }, {
+    "range" : "12",
+    "domain" : "75",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "99"
+  }, {
+    "range" : "106",
+    "domain" : "116",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "115"
+  }, {
+    "range" : "119",
+    "domain" : "118",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "117"
+  }, {
+    "range" : "119",
+    "domain" : "36",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "120"
+  }, {
+    "range" : "119",
+    "domain" : "122",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "121"
+  }, {
+    "range" : "119",
+    "domain" : "106",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "123"
+  }, {
+    "range" : "106",
+    "domain" : "111",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "124"
+  }, {
+    "range" : "106",
+    "domain" : "112",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "125"
+  }, {
+    "range" : "106",
+    "domain" : "127",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "126"
+  }, {
+    "range" : "106",
+    "domain" : "105",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "128"
+  }, {
+    "range" : "106",
+    "domain" : "130",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "129"
+  }, {
+    "range" : "110",
+    "domain" : "135",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "134"
+  }, {
+    "range" : "110",
+    "domain" : "137",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "136"
+  }, {
+    "range" : "110",
+    "domain" : "139",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "138"
+  }, {
+    "range" : "110",
+    "domain" : "113",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "140"
+  }, {
+    "range" : "110",
+    "domain" : "142",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "141"
+  }, {
+    "range" : "104",
+    "domain" : "132",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "143"
+  }, {
+    "range" : "104",
+    "domain" : "103",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "144"
+  }, {
+    "range" : "4",
+    "domain" : "3",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "145"
+  }, {
+    "range" : "4",
+    "domain" : "21",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "146"
+  }, {
+    "range" : "4",
+    "domain" : "100",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "147"
+  }, {
+    "range" : "4",
+    "domain" : "16",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "148"
+  }, {
+    "range" : "34",
+    "domain" : "149",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "150"
+  }, {
+    "range" : "34",
+    "domain" : "133",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "151"
+  }, {
+    "range" : "34",
+    "domain" : "33",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "152"
+  }, {
+    "range" : "104",
+    "domain" : "131",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "153"
+  }, {
+    "range" : "102",
+    "domain" : "109",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "154"
+  }, {
+    "range" : "102",
+    "domain" : "110",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "155"
+  }, {
+    "range" : "102",
+    "domain" : "104",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "156"
+  }, {
+    "range" : "36",
+    "domain" : "158",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "157"
+  }, {
+    "range" : "36",
+    "domain" : "35",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "159"
+  }, {
+    "range" : "114",
+    "domain" : "34",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "160"
+  }, {
+    "range" : "114",
+    "domain" : "40",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "161"
+  }, {
+    "range" : "16",
+    "domain" : "107",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "162"
+  }, {
+    "range" : "16",
+    "domain" : "108",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "163"
+  }, {
+    "range" : "102",
+    "domain" : "101",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "164"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "71",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "83",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "165"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "22",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "83",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "166"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "53",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "83",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "167"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "55",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "3",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "168"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "122",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "3",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "169"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "57",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "83",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "170"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "60",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "83",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "171"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "132",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "16",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "172"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "72",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "112",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "173"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "47",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "132",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "174"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "100",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "132",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "175"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "61",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "6",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "176"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "68",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "6",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "177"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "50",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "6",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "178"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "40",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "101",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "179"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "116",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "113",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "180"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "71",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "6",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "181"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "77",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "6",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "182"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "29",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "21",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "183"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "100",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "113",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "184"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "127",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "113",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "185"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "46",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "127",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "186"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "30",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "130",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "187"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "70",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "105",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "188"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "59",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "127",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "189"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "32",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "127",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "190"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "113",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "127",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "191"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "52",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "127",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "192"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "46",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "193"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "66",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "194"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "100",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "103",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "195"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "111",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "30",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "196"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "73",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "197"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "80",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "198"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "62",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "199"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "63",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "200"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "52",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "201"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "59",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "202"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "72",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "203"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "51",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "83",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "204"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "78",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "83",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "205"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "45",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "206"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "47",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "1",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "207"
+  }, {
+    "range" : "12",
+    "domain" : "50",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "208"
+  }, {
+    "range" : "12",
+    "domain" : "49",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "209"
+  }, {
+    "range" : "12",
+    "domain" : "52",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "210"
+  }, {
+    "range" : "12",
+    "domain" : "51",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "211"
+  }, {
+    "range" : "12",
+    "domain" : "48",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "212"
+  }, {
+    "range" : "12",
+    "domain" : "47",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "213"
+  }, {
+    "range" : "12",
+    "domain" : "13",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "214"
+  }, {
+    "range" : "12",
+    "domain" : "44",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "215"
+  }, {
+    "range" : "12",
+    "domain" : "43",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "216"
+  }, {
+    "range" : "12",
+    "domain" : "46",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "217"
+  }, {
+    "range" : "12",
+    "domain" : "45",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "218"
+  }, {
+    "range" : "27",
+    "domain" : "32",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "219"
+  }, {
+    "range" : "27",
+    "domain" : "31",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "220"
+  }, {
+    "range" : "12",
+    "domain" : "42",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "221"
+  }, {
+    "range" : "12",
+    "domain" : "41",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "222"
+  }, {
+    "range" : "27",
+    "domain" : "29",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "223"
+  }, {
+    "range" : "27",
+    "domain" : "28",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "224"
+  }, {
+    "range" : "27",
+    "domain" : "30",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "225"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "100",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "131",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "226"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "116",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "131",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "227"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "113",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "32",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "228"
+  }, {
+    "range" : "12",
+    "domain" : "69",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "229"
+  }, {
+    "range" : "12",
+    "domain" : "68",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "230"
+  }, {
+    "range" : "12",
+    "domain" : "71",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "231"
+  }, {
+    "range" : "12",
+    "domain" : "70",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "232"
+  }, {
+    "range" : "12",
+    "domain" : "65",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "233"
+  }, {
+    "range" : "12",
+    "domain" : "67",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "234"
+  }, {
+    "range" : "12",
+    "domain" : "66",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "235"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "36",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "28",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "236"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "45",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "28",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "237"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "54",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "93",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "238"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "100",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "104",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "239"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "26",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "104",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "240"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "22",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "36",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "241"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "45",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "36",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "242"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "63",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "21",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "243"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "13",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "137",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "244"
+  }, {
+    "iri" : "http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f",
+    "baseIri" : "http://webprotege.stanford.edu",
+    "range" : "22",
+    "label" : {
+      "IRI-based" : "RB7OqsMS6tfPOIAEHEfvA3f",
+      "en" : "related_to"
+    },
+    "superproperty" : [ "23" ],
+    "domain" : "28",
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "245"
+  }, {
+    "range" : "12",
+    "domain" : "62",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "246"
+  }, {
+    "range" : "12",
+    "domain" : "37",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "247"
+  }, {
+    "range" : "12",
+    "domain" : "64",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "248"
+  }, {
+    "range" : "12",
+    "domain" : "63",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "249"
+  }, {
+    "range" : "12",
+    "domain" : "59",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "250"
+  }, {
+    "range" : "12",
+    "domain" : "58",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "251"
+  }, {
+    "range" : "12",
+    "domain" : "61",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "252"
+  }, {
+    "range" : "12",
+    "domain" : "60",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "253"
+  }, {
+    "range" : "12",
+    "domain" : "57",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "254"
+  }, {
+    "range" : "12",
+    "domain" : "26",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "255"
+  }, {
+    "range" : "12",
+    "domain" : "22",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "256"
+  }, {
+    "range" : "12",
+    "domain" : "54",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "257"
+  }, {
+    "range" : "12",
+    "domain" : "53",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "258"
+  }, {
+    "range" : "12",
+    "domain" : "56",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "259"
+  }, {
+    "range" : "12",
+    "domain" : "55",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "260"
+  } ]
+}

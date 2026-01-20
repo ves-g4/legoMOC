@@ -1,0 +1,764 @@
+<urn:webprotege:ontology:6ce56ec3-8c8a-47cc-8f5b-103baf81a966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+# 
+# 
+# #################################################################
+# #
+# #    Object Properties
+# #
+# #################################################################
+# 
+# 
+# http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f
+<http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#topObjectProperty> .
+<http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> <http://www.w3.org/2000/01/rdf-schema#label> "related_to"@en .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://webprotege.stanford.edu/R0Zmb161mapzYLF5Q8V0Ys
+<http://webprotege.stanford.edu/R0Zmb161mapzYLF5Q8V0Ys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R0Zmb161mapzYLF5Q8V0Ys> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> .
+<http://webprotege.stanford.edu/R0Zmb161mapzYLF5Q8V0Ys> <http://www.w3.org/2000/01/rdf-schema#label> "Great Civilizations"@en .
+# 
+# http://webprotege.stanford.edu/R2PhWXZXX3DB0TFWCKTKot
+<http://webprotege.stanford.edu/R2PhWXZXX3DB0TFWCKTKot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R2PhWXZXX3DB0TFWCKTKot> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> .
+<http://webprotege.stanford.edu/R2PhWXZXX3DB0TFWCKTKot> <http://www.w3.org/2000/01/rdf-schema#label> "Professions"@en .
+# 
+# http://webprotege.stanford.edu/R3al8Ycp78HydG6PliHhwU
+<http://webprotege.stanford.edu/R3al8Ycp78HydG6PliHhwU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R3al8Ycp78HydG6PliHhwU> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> .
+<http://webprotege.stanford.edu/R3al8Ycp78HydG6PliHhwU> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid1 .
+_:genid1 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R3wwgYrht7elExjE9ashmP> .
+_:genid1 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R3al8Ycp78HydG6PliHhwU> <http://www.w3.org/2000/01/rdf-schema#label> "Cars"@en .
+# 
+# http://webprotege.stanford.edu/R3wwgYrht7elExjE9ashmP
+<http://webprotege.stanford.edu/R3wwgYrht7elExjE9ashmP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R3wwgYrht7elExjE9ashmP> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R3wwgYrht7elExjE9ashmP> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Speed Champions"@en .
+# 
+# http://webprotege.stanford.edu/R4TEYwu18QI7ueBDw0YaSV
+<http://webprotege.stanford.edu/R4TEYwu18QI7ueBDw0YaSV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R4TEYwu18QI7ueBDw0YaSV> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R4TEYwu18QI7ueBDw0YaSV> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Braille Bricks"@en .
+# 
+# http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ
+<http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ> <http://www.w3.org/2000/01/rdf-schema#label> "Object and Constructions"@en .
+# 
+# http://webprotege.stanford.edu/R77ce9TXRed541luIBcJDYl
+<http://webprotege.stanford.edu/R77ce9TXRed541luIBcJDYl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R77ce9TXRed541luIBcJDYl> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R77ce9TXRed541luIBcJDYl> <http://www.w3.org/2000/01/rdf-schema#label> "Lego One Piece"@en .
+# 
+# http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu
+<http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc> .
+<http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> <http://www.w3.org/2000/01/rdf-schema#label> "City"@en .
+# 
+# http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8
+<http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB> .
+<http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid2 .
+_:genid2 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> .
+_:genid2 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid3 .
+_:genid3 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt> .
+_:genid3 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid4 .
+_:genid4 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H> .
+_:genid4 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7IWmJmJPp8uP1Kk8hic1I8> <http://www.w3.org/2000/01/rdf-schema#label> "Fantasia"@en .
+# 
+# http://webprotege.stanford.edu/R7Ury4Qs3MfcNbyIYldN7FZ
+<http://webprotege.stanford.edu/R7Ury4Qs3MfcNbyIYldN7FZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7Ury4Qs3MfcNbyIYldN7FZ> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ> .
+<http://webprotege.stanford.edu/R7Ury4Qs3MfcNbyIYldN7FZ> <http://www.w3.org/2000/01/rdf-schema#label> "Food"@en .
+# 
+# http://webprotege.stanford.edu/R7bfT004CKvyNCFKZcDef2o
+<http://webprotege.stanford.edu/R7bfT004CKvyNCFKZcDef2o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7bfT004CKvyNCFKZcDef2o> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R7bfT004CKvyNCFKZcDef2o> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Monkie Kid"@en .
+# 
+# http://webprotege.stanford.edu/R7hqgPsbKwUitDuKqPmCw0a
+<http://webprotege.stanford.edu/R7hqgPsbKwUitDuKqPmCw0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7hqgPsbKwUitDuKqPmCw0a> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> .
+<http://webprotege.stanford.edu/R7hqgPsbKwUitDuKqPmCw0a> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid5 .
+_:genid5 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RBzFUGtnUxbJduVtXUaRxwz> .
+_:genid5 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7hqgPsbKwUitDuKqPmCw0a> <http://www.w3.org/2000/01/rdf-schema#label> "Art"@en .
+# 
+# http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt
+<http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ> .
+<http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid6 .
+_:genid6 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> .
+_:genid6 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid7 .
+_:genid7 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R9tuxfRhFelT3AAkaaMjiHi> .
+_:genid7 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> <http://www.w3.org/2000/01/rdf-schema#label> "Architecture"@en .
+# 
+# http://webprotege.stanford.edu/R7njTjSXiZyyS0LER8UhPw1
+<http://webprotege.stanford.edu/R7njTjSXiZyyS0LER8UhPw1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7njTjSXiZyyS0LER8UhPw1> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R7njTjSXiZyyS0LER8UhPw1> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Icons"@en .
+# 
+# http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq
+<http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE> .
+<http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid8 .
+_:genid8 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt> .
+_:genid8 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid9 .
+_:genid9 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H> .
+_:genid9 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> <http://www.w3.org/2000/01/rdf-schema#label> "Fantasy beings"@en .
+# 
+# http://webprotege.stanford.edu/R81EgVtMMYr4btjSkBPpRgR
+<http://webprotege.stanford.edu/R81EgVtMMYr4btjSkBPpRgR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R81EgVtMMYr4btjSkBPpRgR> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB> .
+<http://webprotege.stanford.edu/R81EgVtMMYr4btjSkBPpRgR> <http://www.w3.org/2000/01/rdf-schema#label> "Science Fiction"@en .
+# 
+# http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB
+<http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB> <http://www.w3.org/2000/01/rdf-schema#label> "Genres"@en .
+# 
+# http://webprotege.stanford.edu/R88ysQUsKu49Ma8BqNzLW4G
+<http://webprotege.stanford.edu/R88ysQUsKu49Ma8BqNzLW4G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R88ysQUsKu49Ma8BqNzLW4G> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc> .
+<http://webprotege.stanford.edu/R88ysQUsKu49Ma8BqNzLW4G> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid10 .
+_:genid10 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R81EgVtMMYr4btjSkBPpRgR> .
+_:genid10 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R88ysQUsKu49Ma8BqNzLW4G> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid11 .
+_:genid11 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RTN9PWvCA5uodLfZV28miZ> .
+_:genid11 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R88ysQUsKu49Ma8BqNzLW4G> <http://www.w3.org/2000/01/rdf-schema#label> "Outer space"@en .
+# 
+# http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0
+<http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> .
+<http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid12 .
+_:genid12 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R2PhWXZXX3DB0TFWCKTKot> .
+_:genid12 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid13 .
+_:genid13 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> .
+_:genid13 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid14 .
+_:genid14 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> .
+_:genid14 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> <http://www.w3.org/2000/01/rdf-schema#label> "Special vehicles"@en .
+# 
+# http://webprotege.stanford.edu/R8AsNe8SCd3uYkDLqijFHtv
+<http://webprotege.stanford.edu/R8AsNe8SCd3uYkDLqijFHtv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8AsNe8SCd3uYkDLqijFHtv> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R8AsNe8SCd3uYkDLqijFHtv> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Education"@en .
+# 
+# http://webprotege.stanford.edu/R8B1dIJLFY6ZK3W10GHLUfW
+<http://webprotege.stanford.edu/R8B1dIJLFY6ZK3W10GHLUfW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8B1dIJLFY6ZK3W10GHLUfW> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R8B1dIJLFY6ZK3W10GHLUfW> <http://www.w3.org/2000/01/rdf-schema#label> "Nike x Lego"@en .
+# 
+# http://webprotege.stanford.edu/R8EplBH9fb5DIKmHdYfvaqj
+<http://webprotege.stanford.edu/R8EplBH9fb5DIKmHdYfvaqj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8EplBH9fb5DIKmHdYfvaqj> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE> .
+<http://webprotege.stanford.edu/R8EplBH9fb5DIKmHdYfvaqj> <http://www.w3.org/2000/01/rdf-schema#label> "Animals"@en .
+# 
+# http://webprotege.stanford.edu/R8Jx4CSYZJipWN2XuxXf60U
+<http://webprotege.stanford.edu/R8Jx4CSYZJipWN2XuxXf60U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8Jx4CSYZJipWN2XuxXf60U> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R8Jx4CSYZJipWN2XuxXf60U> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Sonic the Hedgehog"@en .
+# 
+# http://webprotege.stanford.edu/R8OQidO6NrlOYA8tgJUA8FO
+<http://webprotege.stanford.edu/R8OQidO6NrlOYA8tgJUA8FO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8OQidO6NrlOYA8tgJUA8FO> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> .
+<http://webprotege.stanford.edu/R8OQidO6NrlOYA8tgJUA8FO> <http://www.w3.org/2000/01/rdf-schema#label> "Medieval period"@en .
+# 
+# http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE
+<http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE> <http://www.w3.org/2000/01/rdf-schema#label> "Protagonists"@en .
+# 
+# http://webprotege.stanford.edu/R8UHTDQE8rw7Mq6Tc6hQoXU
+<http://webprotege.stanford.edu/R8UHTDQE8rw7Mq6Tc6hQoXU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8UHTDQE8rw7Mq6Tc6hQoXU> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R8UHTDQE8rw7Mq6Tc6hQoXU> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Minecraft"@en .
+# 
+# http://webprotege.stanford.edu/R8npsgvFPZTxOFT5NegCKLZ
+<http://webprotege.stanford.edu/R8npsgvFPZTxOFT5NegCKLZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8npsgvFPZTxOFT5NegCKLZ> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ> .
+<http://webprotege.stanford.edu/R8npsgvFPZTxOFT5NegCKLZ> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid15 .
+_:genid15 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> .
+_:genid15 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R8npsgvFPZTxOFT5NegCKLZ> <http://www.w3.org/2000/01/rdf-schema#label> "Devices"@en .
+# 
+# http://webprotege.stanford.edu/R8suvCWwFp2uVRDkqddB1J3
+<http://webprotege.stanford.edu/R8suvCWwFp2uVRDkqddB1J3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8suvCWwFp2uVRDkqddB1J3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R8suvCWwFp2uVRDkqddB1J3> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Gabby's dollhouse"@en .
+# 
+# http://webprotege.stanford.edu/R8yUQ5SuWyg5kRWxVJHMkQY
+<http://webprotege.stanford.edu/R8yUQ5SuWyg5kRWxVJHMkQY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8yUQ5SuWyg5kRWxVJHMkQY> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R8yUQ5SuWyg5kRWxVJHMkQY> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Disney"@en .
+# 
+# http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> .
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid16 .
+_:genid16 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R77ce9TXRed541luIBcJDYl> .
+_:genid16 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid17 .
+_:genid17 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R9LF9FKdyR0bkXN1DrFGXYf> .
+_:genid17 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid18 .
+_:genid18 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RBgWzLrwM0LZyc0wW3o1VqI> .
+_:genid18 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid19 .
+_:genid19 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RBv2MW5OPcUTYLKqIQYLm5> .
+_:genid19 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid20 .
+_:genid20 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RwNOaJHtE3aV4Rqdunf08g> .
+_:genid20 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R8ygeMGuMETQfJj3g8sBxmN> <http://www.w3.org/2000/01/rdf-schema#label> "Series"@en .
+# 
+# http://webprotege.stanford.edu/R8yi7KqUumk9kJuSTvEZitZ
+<http://webprotege.stanford.edu/R8yi7KqUumk9kJuSTvEZitZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R8yi7KqUumk9kJuSTvEZitZ> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R8yi7KqUumk9kJuSTvEZitZ> <http://www.w3.org/2000/01/rdf-schema#label> "Lego DUPLO"@en .
+# 
+# http://webprotege.stanford.edu/R96DfYwN66ImTagicYVPb4B
+<http://webprotege.stanford.edu/R96DfYwN66ImTagicYVPb4B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R96DfYwN66ImTagicYVPb4B> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> .
+<http://webprotege.stanford.edu/R96DfYwN66ImTagicYVPb4B> <http://www.w3.org/2000/01/rdf-schema#label> "Modern age"@en .
+# 
+# http://webprotege.stanford.edu/R992v2q7vf6UBtKS3IhODxj
+<http://webprotege.stanford.edu/R992v2q7vf6UBtKS3IhODxj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R992v2q7vf6UBtKS3IhODxj> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> .
+<http://webprotege.stanford.edu/R992v2q7vf6UBtKS3IhODxj> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid21 .
+_:genid21 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R8yUQ5SuWyg5kRWxVJHMkQY> .
+_:genid21 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R992v2q7vf6UBtKS3IhODxj> <http://www.w3.org/2000/01/rdf-schema#label> "Princesses"@en .
+# 
+# http://webprotege.stanford.edu/R9CA3g3ZUzkfeHWuD2zIuuN
+<http://webprotege.stanford.edu/R9CA3g3ZUzkfeHWuD2zIuuN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9CA3g3ZUzkfeHWuD2zIuuN> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> .
+<http://webprotege.stanford.edu/R9CA3g3ZUzkfeHWuD2zIuuN> <http://www.w3.org/2000/01/rdf-schema#label> "Trains"@en .
+# 
+# http://webprotege.stanford.edu/R9GJsto964R6rGtShJpp3O4
+<http://webprotege.stanford.edu/R9GJsto964R6rGtShJpp3O4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9GJsto964R6rGtShJpp3O4> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9GJsto964R6rGtShJpp3O4> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Classic"@en .
+# 
+# http://webprotege.stanford.edu/R9LF9FKdyR0bkXN1DrFGXYf
+<http://webprotege.stanford.edu/R9LF9FKdyR0bkXN1DrFGXYf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9LF9FKdyR0bkXN1DrFGXYf> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9LF9FKdyR0bkXN1DrFGXYf> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Pokémon"@en .
+# 
+# http://webprotege.stanford.edu/R9LjxAexSUDz63dndclGEcO
+<http://webprotege.stanford.edu/R9LjxAexSUDz63dndclGEcO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9LjxAexSUDz63dndclGEcO> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9LjxAexSUDz63dndclGEcO> <http://www.w3.org/2000/01/rdf-schema#label> "Lego DreamZzz"@en .
+# 
+# http://webprotege.stanford.edu/R9Nnw6bHoO4twxiOFrJez4c
+<http://webprotege.stanford.edu/R9Nnw6bHoO4twxiOFrJez4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9Nnw6bHoO4twxiOFrJez4c> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9Nnw6bHoO4twxiOFrJez4c> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Ninjago"@en .
+# 
+# http://webprotege.stanford.edu/R9Oo8uJVMNI7a3jqhHUeNTd
+<http://webprotege.stanford.edu/R9Oo8uJVMNI7a3jqhHUeNTd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9Oo8uJVMNI7a3jqhHUeNTd> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> .
+<http://webprotege.stanford.edu/R9Oo8uJVMNI7a3jqhHUeNTd> <http://www.w3.org/2000/01/rdf-schema#label> "Comics"@en .
+# 
+# http://webprotege.stanford.edu/R9cAP3aBDG5dBJFZUNSFC0Z
+<http://webprotege.stanford.edu/R9cAP3aBDG5dBJFZUNSFC0Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9cAP3aBDG5dBJFZUNSFC0Z> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9cAP3aBDG5dBJFZUNSFC0Z> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Jurassic World"@en .
+# 
+# http://webprotege.stanford.edu/R9cWwaOy0qksoJ3chbrX2TE
+<http://webprotege.stanford.edu/R9cWwaOy0qksoJ3chbrX2TE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9cWwaOy0qksoJ3chbrX2TE> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> .
+<http://webprotege.stanford.edu/R9cWwaOy0qksoJ3chbrX2TE> <http://www.w3.org/2000/01/rdf-schema#label> "Books"@en .
+# 
+# http://webprotege.stanford.edu/R9eOOavut6H7uFlF5jAxJDp
+<http://webprotege.stanford.edu/R9eOOavut6H7uFlF5jAxJDp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9eOOavut6H7uFlF5jAxJDp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9eOOavut6H7uFlF5jAxJDp> <http://www.w3.org/2000/01/rdf-schema#label> "Lego City"@en .
+# 
+# http://webprotege.stanford.edu/R9hDwNCxyZtdE1w8h9Kznzj
+<http://webprotege.stanford.edu/R9hDwNCxyZtdE1w8h9Kznzj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9hDwNCxyZtdE1w8h9Kznzj> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9hDwNCxyZtdE1w8h9Kznzj> <http://www.w3.org/2000/01/rdf-schema#label> "Botanicals"@en .
+# 
+# http://webprotege.stanford.edu/R9ob0yphQRjmH389VKgl7dm
+<http://webprotege.stanford.edu/R9ob0yphQRjmH389VKgl7dm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9ob0yphQRjmH389VKgl7dm> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> .
+<http://webprotege.stanford.edu/R9ob0yphQRjmH389VKgl7dm> <http://www.w3.org/2000/01/rdf-schema#label> "Sports"@en .
+# 
+# http://webprotege.stanford.edu/R9rKi5ZT0tsk9TAquy15R7z
+<http://webprotege.stanford.edu/R9rKi5ZT0tsk9TAquy15R7z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9rKi5ZT0tsk9TAquy15R7z> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> .
+<http://webprotege.stanford.edu/R9rKi5ZT0tsk9TAquy15R7z> <http://www.w3.org/2000/01/rdf-schema#label> "Boats"@en .
+# 
+# http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9
+<http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc> .
+<http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid22 .
+_:genid22 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo> .
+_:genid22 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> <http://www.w3.org/2000/01/rdf-schema#label> "History"@en .
+# 
+# http://webprotege.stanford.edu/R9tuxfRhFelT3AAkaaMjiHi
+<http://webprotege.stanford.edu/R9tuxfRhFelT3AAkaaMjiHi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9tuxfRhFelT3AAkaaMjiHi> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9tuxfRhFelT3AAkaaMjiHi> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Architecture"@en .
+# 
+# http://webprotege.stanford.edu/R9x14aKmH7Z44lFAx9p4wZT
+<http://webprotege.stanford.edu/R9x14aKmH7Z44lFAx9p4wZT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9x14aKmH7Z44lFAx9p4wZT> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/R9x14aKmH7Z44lFAx9p4wZT> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Creator 3in1"@en .
+# 
+# http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo
+<http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> .
+<http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid23 .
+_:genid23 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> .
+_:genid23 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid24 .
+_:genid24 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7njTjSXiZyyS0LER8UhPw1> .
+_:genid24 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/R9zM5m8vGgAj0t9IMBKJCSo> <http://www.w3.org/2000/01/rdf-schema#label> "Monument"@en .
+# 
+# http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc
+<http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc> <http://www.w3.org/2000/01/rdf-schema#label> "Setting"@en .
+# 
+# http://webprotege.stanford.edu/RB7Ul3EfpLp1MnKzx80MV9E
+<http://webprotege.stanford.edu/RB7Ul3EfpLp1MnKzx80MV9E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RB7Ul3EfpLp1MnKzx80MV9E> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RB7Ul3EfpLp1MnKzx80MV9E> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Editions"@en .
+# 
+# http://webprotege.stanford.edu/RBALbfIAKSOdtvGj7h24eL3
+<http://webprotege.stanford.edu/RBALbfIAKSOdtvGj7h24eL3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBALbfIAKSOdtvGj7h24eL3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> .
+<http://webprotege.stanford.edu/RBALbfIAKSOdtvGj7h24eL3> <http://www.w3.org/2000/01/rdf-schema#label> "Explorers"@en .
+# 
+# http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt
+<http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE> .
+<http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> <http://www.w3.org/2000/01/rdf-schema#label> "Characters"@en .
+# 
+# http://webprotege.stanford.edu/RBWLzcX5fd9iA2PQIZOILXS
+<http://webprotege.stanford.edu/RBWLzcX5fd9iA2PQIZOILXS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBWLzcX5fd9iA2PQIZOILXS> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> .
+<http://webprotege.stanford.edu/RBWLzcX5fd9iA2PQIZOILXS> <http://www.w3.org/2000/01/rdf-schema#label> "Ancient history"@en .
+# 
+# http://webprotege.stanford.edu/RBX15yg1QoZ0N8cmbrv7sQR
+<http://webprotege.stanford.edu/RBX15yg1QoZ0N8cmbrv7sQR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBX15yg1QoZ0N8cmbrv7sQR> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RBX15yg1QoZ0N8cmbrv7sQR> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Animal Crossing"@en .
+# 
+# http://webprotege.stanford.edu/RBZhz0dh3cWgm7gvUz7ewi5
+<http://webprotege.stanford.edu/RBZhz0dh3cWgm7gvUz7ewi5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBZhz0dh3cWgm7gvUz7ewi5> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> .
+<http://webprotege.stanford.edu/RBZhz0dh3cWgm7gvUz7ewi5> <http://www.w3.org/2000/01/rdf-schema#label> "Airplanes"@en .
+# 
+# http://webprotege.stanford.edu/RBgWzLrwM0LZyc0wW3o1VqI
+<http://webprotege.stanford.edu/RBgWzLrwM0LZyc0wW3o1VqI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBgWzLrwM0LZyc0wW3o1VqI> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RBgWzLrwM0LZyc0wW3o1VqI> <http://www.w3.org/2000/01/rdf-schema#label> "Lego DUPLO Peppa Pig"@en .
+# 
+# http://webprotege.stanford.edu/RBnl2tOIWd5VqsnjKq4YyD
+<http://webprotege.stanford.edu/RBnl2tOIWd5VqsnjKq4YyD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBnl2tOIWd5VqsnjKq4YyD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RB2dLKX3hvfvfQoIblTV4fc> .
+<http://webprotege.stanford.edu/RBnl2tOIWd5VqsnjKq4YyD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid25 .
+_:genid25 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R8EplBH9fb5DIKmHdYfvaqj> .
+_:genid25 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RBnl2tOIWd5VqsnjKq4YyD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid26 .
+_:genid26 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R9hDwNCxyZtdE1w8h9Kznzj> .
+_:genid26 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RBnl2tOIWd5VqsnjKq4YyD> <http://www.w3.org/2000/01/rdf-schema#label> "Nature"@en .
+# 
+# http://webprotege.stanford.edu/RBv2MW5OPcUTYLKqIQYLm5
+<http://webprotege.stanford.edu/RBv2MW5OPcUTYLKqIQYLm5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBv2MW5OPcUTYLKqIQYLm5> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RBv2MW5OPcUTYLKqIQYLm5> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Wednesday"@en .
+# 
+# http://webprotege.stanford.edu/RBzFUGtnUxbJduVtXUaRxwz
+<http://webprotege.stanford.edu/RBzFUGtnUxbJduVtXUaRxwz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RBzFUGtnUxbJduVtXUaRxwz> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RBzFUGtnUxbJduVtXUaRxwz> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Art"@en .
+# 
+# http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt
+<http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt> <http://www.w3.org/2000/01/rdf-schema#label> "Lego The Legend of Zelda"@en .
+# 
+# http://webprotege.stanford.edu/RC4K2spY5Xe6qjaRxlD2PCe
+<http://webprotege.stanford.edu/RC4K2spY5Xe6qjaRxlD2PCe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RC4K2spY5Xe6qjaRxlD2PCe> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RC4K2spY5Xe6qjaRxlD2PCe> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Wicked"@en .
+# 
+# http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two
+<http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> .
+<http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Themes"@en .
+<http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://www.lego.com/es-es/themes> .
+# 
+# http://webprotege.stanford.edu/RC52vE3vqKL4JlB00bgi4Xe
+<http://webprotege.stanford.edu/RC52vE3vqKL4JlB00bgi4Xe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RC52vE3vqKL4JlB00bgi4Xe> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RC52vE3vqKL4JlB00bgi4Xe> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Serious Play"@en .
+# 
+# http://webprotege.stanford.edu/RC7ZKoZ706Bn57HYkw2DtKI
+<http://webprotege.stanford.edu/RC7ZKoZ706Bn57HYkw2DtKI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RC7ZKoZ706Bn57HYkw2DtKI> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> .
+<http://webprotege.stanford.edu/RC7ZKoZ706Bn57HYkw2DtKI> <http://www.w3.org/2000/01/rdf-schema#label> "Dragons"@en .
+# 
+# http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid27 .
+_:genid27 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R8Jx4CSYZJipWN2XuxXf60U> .
+_:genid27 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid28 .
+_:genid28 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R8UHTDQE8rw7Mq6Tc6hQoXU> .
+_:genid28 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid29 .
+_:genid29 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R9LF9FKdyR0bkXN1DrFGXYf> .
+_:genid29 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid30 .
+_:genid30 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RBX15yg1QoZ0N8cmbrv7sQR> .
+_:genid30 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid31 .
+_:genid31 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RC2WSEBYdnsFxcanwEqGfFt> .
+_:genid31 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid32 .
+_:genid32 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RDbHUon8YmqBmjxggroNYhZ> .
+_:genid32 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid33 .
+_:genid33 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/ReRForBcl9K04o71crLlp6> .
+_:genid33 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC7oedEaqY0FeL11ILF8ldp> <http://www.w3.org/2000/01/rdf-schema#label> "Video games"@en .
+# 
+# http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid34 .
+_:genid34 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7njTjSXiZyyS0LER8UhPw1> .
+_:genid34 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid35 .
+_:genid35 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R8yUQ5SuWyg5kRWxVJHMkQY> .
+_:genid35 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid36 .
+_:genid36 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R9cAP3aBDG5dBJFZUNSFC0Z> .
+_:genid36 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid37 .
+_:genid37 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RC4K2spY5Xe6qjaRxlD2PCe> .
+_:genid37 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid38 .
+_:genid38 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RCLI0fozmqCxDK4Ql6xIZ0O> .
+_:genid38 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid39 .
+_:genid39 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RDAVnXdIlOJFaUWLF4vzFnX> .
+_:genid39 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid40 .
+_:genid40 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H> .
+_:genid40 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid41 .
+_:genid41 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RRnMLnJkvdCUYnIi4OHfUr> .
+_:genid41 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid42 .
+_:genid42 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RTN9PWvCA5uodLfZV28miZ> .
+_:genid42 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid43 .
+_:genid43 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RrSPrrU2bGmWePTVU50K20> .
+_:genid43 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid44 .
+_:genid44 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RxKyzV4Rs0tb5ISCcC0ggM> .
+_:genid44 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RC9dR8IuqvbY35xv1psHf6K> <http://www.w3.org/2000/01/rdf-schema#label> "Movies"@en .
+# 
+# http://webprotege.stanford.edu/RCE6t3FBuJTEof3xtbWX71a
+<http://webprotege.stanford.edu/RCE6t3FBuJTEof3xtbWX71a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCE6t3FBuJTEof3xtbWX71a> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RCE6t3FBuJTEof3xtbWX71a> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Technic"@en .
+# 
+# http://webprotege.stanford.edu/RCEQw47NJkbgvaQOtBLJD05
+<http://webprotege.stanford.edu/RCEQw47NJkbgvaQOtBLJD05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCEQw47NJkbgvaQOtBLJD05> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> .
+<http://webprotege.stanford.edu/RCEQw47NJkbgvaQOtBLJD05> <http://www.w3.org/2000/01/rdf-schema#label> "Music"@en .
+# 
+# http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk
+<http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RDeuFb0AaYuwpzy2bE3WUGo> .
+<http://webprotege.stanford.edu/RCHmfbYcqYAR1maUEpgJmAk> <http://www.w3.org/2000/01/rdf-schema#label> "Hobbies"@en .
+# 
+# http://webprotege.stanford.edu/RCLI0fozmqCxDK4Ql6xIZ0O
+<http://webprotege.stanford.edu/RCLI0fozmqCxDK4Ql6xIZ0O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCLI0fozmqCxDK4Ql6xIZ0O> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RCLI0fozmqCxDK4Ql6xIZ0O> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Batman"@en .
+# 
+# http://webprotege.stanford.edu/RCLZgRYIO2zUqbj8Et0L1nW
+<http://webprotege.stanford.edu/RCLZgRYIO2zUqbj8Et0L1nW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCLZgRYIO2zUqbj8Et0L1nW> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB> .
+<http://webprotege.stanford.edu/RCLZgRYIO2zUqbj8Et0L1nW> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid45 .
+_:genid45 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RBALbfIAKSOdtvGj7h24eL3> .
+_:genid45 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RCLZgRYIO2zUqbj8Et0L1nW> <http://www.w3.org/2000/01/rdf-schema#label> "Adventure"@en .
+# 
+# http://webprotege.stanford.edu/RCdQ90mIEgXmaj0X5k0wNmB
+<http://webprotege.stanford.edu/RCdQ90mIEgXmaj0X5k0wNmB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCdQ90mIEgXmaj0X5k0wNmB> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> .
+<http://webprotege.stanford.edu/RCdQ90mIEgXmaj0X5k0wNmB> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid46 .
+_:genid46 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> .
+_:genid46 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RCdQ90mIEgXmaj0X5k0wNmB> <http://www.w3.org/2000/01/rdf-schema#label> "House"@en .
+# 
+# http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> .
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid47 .
+_:genid47 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> .
+_:genid47 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid48 .
+_:genid48 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RCLI0fozmqCxDK4Ql6xIZ0O> .
+_:genid48 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid49 .
+_:genid49 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RRnMLnJkvdCUYnIi4OHfUr> .
+_:genid49 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid50 .
+_:genid50 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RrSPrrU2bGmWePTVU50K20> .
+_:genid50 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid51 .
+_:genid51 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RwQPbSULSt2QIlIX0PCphy> .
+_:genid51 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RCfJzSRln3nbobZPOGXrsAy> <http://www.w3.org/2000/01/rdf-schema#label> "Superheros"@en .
+# 
+# http://webprotege.stanford.edu/RCmZmiAn3seR9OzeycghH8U
+<http://webprotege.stanford.edu/RCmZmiAn3seR9OzeycghH8U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCmZmiAn3seR9OzeycghH8U> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RCmZmiAn3seR9OzeycghH8U> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Minifigures"@en .
+# 
+# http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ
+<http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> <http://www.w3.org/2000/01/rdf-schema#label> "Fictional Universes"@en .
+# 
+# http://webprotege.stanford.edu/RDAVnXdIlOJFaUWLF4vzFnX
+<http://webprotege.stanford.edu/RDAVnXdIlOJFaUWLF4vzFnX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDAVnXdIlOJFaUWLF4vzFnX> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RDAVnXdIlOJFaUWLF4vzFnX> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Harry Potter"@en .
+# 
+# http://webprotege.stanford.edu/RDJ8gVY1XjwudpABHUNn92X
+<http://webprotege.stanford.edu/RDJ8gVY1XjwudpABHUNn92X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDJ8gVY1XjwudpABHUNn92X> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv> .
+<http://webprotege.stanford.edu/RDJ8gVY1XjwudpABHUNn92X> <http://www.w3.org/2000/01/rdf-schema#label> "Easter"@en .
+# 
+# http://webprotege.stanford.edu/RDKDRhv2ZGzB9zxFriLyOU3
+<http://webprotege.stanford.edu/RDKDRhv2ZGzB9zxFriLyOU3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDKDRhv2ZGzB9zxFriLyOU3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RDKDRhv2ZGzB9zxFriLyOU3> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Ideas"@en .
+# 
+# http://webprotege.stanford.edu/RDPGJIeDDCY6QFdkNog0Qtc
+<http://webprotege.stanford.edu/RDPGJIeDDCY6QFdkNog0Qtc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDPGJIeDDCY6QFdkNog0Qtc> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv> .
+<http://webprotege.stanford.edu/RDPGJIeDDCY6QFdkNog0Qtc> <http://www.w3.org/2000/01/rdf-schema#label> "Christmas"@en .
+# 
+# http://webprotege.stanford.edu/RDPlXd2fVcGp0j9EPrBH2xb
+<http://webprotege.stanford.edu/RDPlXd2fVcGp0j9EPrBH2xb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDPlXd2fVcGp0j9EPrBH2xb> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> .
+<http://webprotege.stanford.edu/RDPlXd2fVcGp0j9EPrBH2xb> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid52 .
+_:genid52 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R9Nnw6bHoO4twxiOFrJez4c> .
+_:genid52 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RDPlXd2fVcGp0j9EPrBH2xb> <http://www.w3.org/2000/01/rdf-schema#label> "Ninjas"@en .
+# 
+# http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H
+<http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RDSL3AhS30jIjrB9fg5qu2H> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Lord of the Rings"@en .
+# 
+# http://webprotege.stanford.edu/RDbHUon8YmqBmjxggroNYhZ
+<http://webprotege.stanford.edu/RDbHUon8YmqBmjxggroNYhZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDbHUon8YmqBmjxggroNYhZ> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RDbHUon8YmqBmjxggroNYhZ> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Super Mario"@en .
+# 
+# http://webprotege.stanford.edu/RDeuFb0AaYuwpzy2bE3WUGo
+<http://webprotege.stanford.edu/RDeuFb0AaYuwpzy2bE3WUGo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDeuFb0AaYuwpzy2bE3WUGo> <http://www.w3.org/2000/01/rdf-schema#label> "Activities and Leisure"@en .
+# 
+# http://webprotege.stanford.edu/RDgMB7eTBitkJTlOciWBgcI
+<http://webprotege.stanford.edu/RDgMB7eTBitkJTlOciWBgcI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDgMB7eTBitkJTlOciWBgcI> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RBMbceCJHuqmFe0nqVAXSAt> .
+<http://webprotege.stanford.edu/RDgMB7eTBitkJTlOciWBgcI> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid53 .
+_:genid53 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/RCLZgRYIO2zUqbj8Et0L1nW> .
+_:genid53 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RDgMB7eTBitkJTlOciWBgcI> <http://www.w3.org/2000/01/rdf-schema#label> "Pirates"@en .
+# 
+# http://webprotege.stanford.edu/RDmsWD8U4AArEIk1lLQEZTH
+<http://webprotege.stanford.edu/RDmsWD8U4AArEIk1lLQEZTH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDmsWD8U4AArEIk1lLQEZTH> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RCmdFpDemYpgbxXmjaDmnhJ> .
+<http://webprotege.stanford.edu/RDmsWD8U4AArEIk1lLQEZTH> <http://www.w3.org/2000/01/rdf-schema#label> "Literature"@en .
+# 
+# http://webprotege.stanford.edu/RDyY8NnIr04M412wDjE1c2o
+<http://webprotege.stanford.edu/RDyY8NnIr04M412wDjE1c2o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RDyY8NnIr04M412wDjE1c2o> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RDyY8NnIr04M412wDjE1c2o> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Friends"@en .
+# 
+# http://webprotege.stanford.edu/REElwzdc0PZNXZ4UHGQxSY
+<http://webprotege.stanford.edu/REElwzdc0PZNXZ4UHGQxSY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/REElwzdc0PZNXZ4UHGQxSY> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB> .
+<http://webprotege.stanford.edu/REElwzdc0PZNXZ4UHGQxSY> <http://www.w3.org/2000/01/rdf-schema#label> "War"@en .
+# 
+# http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA
+<http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R70MviYMD32x8HLDru3xJvZ> .
+<http://webprotege.stanford.edu/RKAPpkSg0ADyEyXMQMTbGA> <http://www.w3.org/2000/01/rdf-schema#label> "Vehicles"@en .
+# 
+# http://webprotege.stanford.edu/RKmwWdiEYDK4TIJ0wt8V8l
+<http://webprotege.stanford.edu/RKmwWdiEYDK4TIJ0wt8V8l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RKmwWdiEYDK4TIJ0wt8V8l> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RKmwWdiEYDK4TIJ0wt8V8l> <http://www.w3.org/2000/01/rdf-schema#label> "Lego BrickHeadz"@en .
+# 
+# http://webprotege.stanford.edu/RRnMLnJkvdCUYnIi4OHfUr
+<http://webprotege.stanford.edu/RRnMLnJkvdCUYnIi4OHfUr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RRnMLnJkvdCUYnIi4OHfUr> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RRnMLnJkvdCUYnIi4OHfUr> <http://www.w3.org/2000/01/rdf-schema#label> "Lego DC"@en .
+# 
+# http://webprotege.stanford.edu/RTN9PWvCA5uodLfZV28miZ
+<http://webprotege.stanford.edu/RTN9PWvCA5uodLfZV28miZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RTN9PWvCA5uodLfZV28miZ> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RTN9PWvCA5uodLfZV28miZ> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Star Wars"@en .
+# 
+# http://webprotege.stanford.edu/RZ5aEMKinBzJ1BeIRyQPV9
+<http://webprotege.stanford.edu/RZ5aEMKinBzJ1BeIRyQPV9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RZ5aEMKinBzJ1BeIRyQPV9> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R7tazwB9cYTOVGed9w0Dxsq> .
+<http://webprotege.stanford.edu/RZ5aEMKinBzJ1BeIRyQPV9> <http://www.w3.org/2000/01/rdf-schema#label> "Fairies"@en .
+# 
+# http://webprotege.stanford.edu/RcaHk084yWEYejxbSjJCp1
+<http://webprotege.stanford.edu/RcaHk084yWEYejxbSjJCp1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RcaHk084yWEYejxbSjJCp1> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R8Rr7Bp1kKQXKJ1uLxjOgCE> .
+<http://webprotege.stanford.edu/RcaHk084yWEYejxbSjJCp1> <http://www.w3.org/2000/01/rdf-schema#label> "Robots"@en .
+# 
+# http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv
+<http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RDeuFb0AaYuwpzy2bE3WUGo> .
+<http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv> <http://www.w3.org/2000/01/rdf-schema#label> "Celebrations"@en .
+# 
+# http://webprotege.stanford.edu/ReRForBcl9K04o71crLlp6
+<http://webprotege.stanford.edu/ReRForBcl9K04o71crLlp6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/ReRForBcl9K04o71crLlp6> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/ReRForBcl9K04o71crLlp6> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Fortnite"@en .
+# 
+# http://webprotege.stanford.edu/ResRuOBTcU7928DmwCSaNl
+<http://webprotege.stanford.edu/ResRuOBTcU7928DmwCSaNl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/ResRuOBTcU7928DmwCSaNl> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/Re4lYfpZoIKD2yNz8QNWHv> .
+<http://webprotege.stanford.edu/ResRuOBTcU7928DmwCSaNl> <http://www.w3.org/2000/01/rdf-schema#label> "Halloween"@en .
+# 
+# http://webprotege.stanford.edu/Rffs0BNFe86lcP5HnJUdlt
+<http://webprotege.stanford.edu/Rffs0BNFe86lcP5HnJUdlt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/Rffs0BNFe86lcP5HnJUdlt> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R9rdKBxCugmRnbOX3Wrvq9> .
+<http://webprotege.stanford.edu/Rffs0BNFe86lcP5HnJUdlt> <http://www.w3.org/2000/01/rdf-schema#label> "Contemporary history"@en .
+# 
+# http://webprotege.stanford.edu/RncyS63EYNJJlsl5GtQJVm
+<http://webprotege.stanford.edu/RncyS63EYNJJlsl5GtQJVm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RncyS63EYNJJlsl5GtQJVm> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RncyS63EYNJJlsl5GtQJVm> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Powered Up"@en .
+# 
+# http://webprotege.stanford.edu/Rp1nwBO0u5JUlYiwWRdQbc
+<http://webprotege.stanford.edu/Rp1nwBO0u5JUlYiwWRdQbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/Rp1nwBO0u5JUlYiwWRdQbc> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R7kSJtEr57VmeRxqmogPPkt> .
+<http://webprotege.stanford.edu/Rp1nwBO0u5JUlYiwWRdQbc> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid54 .
+_:genid54 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R2PhWXZXX3DB0TFWCKTKot> .
+_:genid54 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/Rp1nwBO0u5JUlYiwWRdQbc> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid55 .
+_:genid55 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R7IPB7LjovGeAL18QNmQhFu> .
+_:genid55 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/Rp1nwBO0u5JUlYiwWRdQbc> <http://www.w3.org/2000/01/rdf-schema#label> "Building"@en .
+# 
+# http://webprotege.stanford.edu/RrSPrrU2bGmWePTVU50K20
+<http://webprotege.stanford.edu/RrSPrrU2bGmWePTVU50K20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RrSPrrU2bGmWePTVU50K20> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RrSPrrU2bGmWePTVU50K20> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Marvel"@en .
+# 
+# http://webprotege.stanford.edu/RwNOaJHtE3aV4Rqdunf08g
+<http://webprotege.stanford.edu/RwNOaJHtE3aV4Rqdunf08g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RwNOaJHtE3aV4Rqdunf08g> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RwNOaJHtE3aV4Rqdunf08g> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Bluey"@en .
+# 
+# http://webprotege.stanford.edu/RwQPbSULSt2QIlIX0PCphy
+<http://webprotege.stanford.edu/RwQPbSULSt2QIlIX0PCphy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RwQPbSULSt2QIlIX0PCphy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/R84UONYrkEC6jDvX3tkSrQB> .
+<http://webprotege.stanford.edu/RwQPbSULSt2QIlIX0PCphy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid56 .
+_:genid56 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://webprotege.stanford.edu/R89tunQFHPeM3L5ptGDgqr0> .
+_:genid56 <http://www.w3.org/2002/07/owl#onProperty> <http://webprotege.stanford.edu/RB7OqsMS6tfPOIAEHEfvA3f> .
+_:genid56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://webprotege.stanford.edu/RwQPbSULSt2QIlIX0PCphy> <http://www.w3.org/2000/01/rdf-schema#label> "Action"@en .
+# 
+# http://webprotege.stanford.edu/RxKyzV4Rs0tb5ISCcC0ggM
+<http://webprotege.stanford.edu/RxKyzV4Rs0tb5ISCcC0ggM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://webprotege.stanford.edu/RxKyzV4Rs0tb5ISCcC0ggM> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://webprotege.stanford.edu/RC4qabJwvrncW9rufZD3two> .
+<http://webprotege.stanford.edu/RxKyzV4Rs0tb5ISCcC0ggM> <http://www.w3.org/2000/01/rdf-schema#label> "Lego Gru 4"@en .
+# 
+# Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/
