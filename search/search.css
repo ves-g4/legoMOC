@@ -1,0 +1,119 @@
+.ui-widget {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue","DejaVu Sans", Arial, Helvetica, sans-serif;
+    font-size: .9rem;
+}
+
+.ui-autocomplete-category {
+    font-weight: bold;
+    padding: 3px 0 3px 2px;
+    background-color: #e3e3e3;
+    color: black;
+}
+.ui-autocomplete {
+    max-height:75%;
+    max-width:75%;
+    overflow-y:auto;
+    overflow-x:auto;
+    scrollbar-width: thin;
+    white-space:nowrap;
+    box-shadow: 6px 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+ul.ui-autocomplete {
+    position:fixed;
+    z-index:1;
+    background-color: white;
+}
+/*
+ul.ui-autocomplete li {
+    float:left;
+    clear:both;
+    min-width: 100%;
+}
+*/
+.ui-autocomplete .result-item {
+    font-size: inherit;
+}
+.ui-autocomplete .result-ext {
+    font-size: .8rem;
+    color: #AAAAAA;
+}
+.ui-autocomplete .cat-highlight {
+    color: #AA0000;
+}
+.ui-autocomplete .name-highlight {
+    color: #FF0000;
+}
+.ui-autocomplete .ext-highlight {
+    color: #FF3333;
+}
+.search-input {
+    background-image:url('glass.png');
+    background-size:13px;
+    background-repeat:no-repeat;
+    background-position:2px 3px;
+    background-color: white;
+    color: black;
+    padding-left: 20px;
+    border: solid 1px #8f8f9d;
+    border-radius: 3px;
+    width: 16rem;
+    height: 1rem;
+    margin: 0;
+    display: block;
+}
+
+#search-input {
+    background-image:url('glass.png');
+    background-size:13px;
+    background-repeat:no-repeat;
+    background-position:2px 3px;
+    background-color: white;
+    color: black;
+    padding-left:20px;
+    width: 20rem;
+}
+
+.search-reset {
+    background-color: transparent;
+    background-image:url('x.png');
+    background-repeat:no-repeat;
+    background-size:contain;
+    border:0;
+    border-radius:0;
+    width: 11px;
+    height: 11px;
+    position:absolute;
+    right: 5px;
+    top: 5px;
+    font-size:0;
+}
+
+::placeholder {
+    color: #909090;
+    opacity: 1;
+}
+.search-tag-desc-result {
+    font-style:italic;
+    font-size:11px;
+}
+.search-tag-holder-result {
+    font-style:italic;
+    font-size:12px;
+}
+
+/* jquery-ui.overrides.css */
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active:hover {
+    /* Overrides the color of selection used in jQuery UI */
+    background: #b3d4fc;
+    border: 1px solid #b3d4fc;
+}
+
+div.nav-search {
+    position: relative;
+}
